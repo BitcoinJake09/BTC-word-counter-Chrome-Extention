@@ -9,3 +9,9 @@ to run:
 done, now, load a page like https://en.wikipedia.org/wiki/Bitcoin
 and click count and it will display something like this:
 ![Bitcoin Count](https://raw.githubusercontent.com/BitcoinJake09/BTC-word-counter-Chrome-Extention/master/exampleCount.png)
+
+
+If you found this useful or fun, consider donating Bitcoin to support @BitcoinJake09 for future projects
+
+BTC: 1AABTCMd4X2Gv5tX2bisLiBQDKch8yomNM
+![Bitcoin](https://raw.githubusercontent.com/BitcoinJake09/AllAboutBTC.com/master/Images/qr.png)
