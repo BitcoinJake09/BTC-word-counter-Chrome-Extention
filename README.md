@@ -8,4 +8,4 @@ to run:
 
 done, now, load a page like https://en.wikipedia.org/wiki/Bitcoin
 and click count and it will display something like this:
-![Bitcoin COunt](https://media.discordapp.net/attachments/680526688223887439/717762101556543568/unknown.png?width=400&height=225)
+![Bitcoin Count](https://raw.githubusercontent.com/BitcoinJake09/BTC-word-counter-Chrome-Extention/master/exampleCount.png)
